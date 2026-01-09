@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.card1 {
+  display: inline-block;
+  padding: 20;
+  margin: 10px;  
+}
+.card2 {
+  display: inline-block;
+  padding: 20;
+  margin:10px;
+}
+.card3 {
+  display: inline-block;
+  padding: 20;
+  margin:10px;
+}
